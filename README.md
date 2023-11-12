@@ -63,14 +63,22 @@ https://drive.google.com/file/d/1YZMAKxlLj1BR2WbDj259gPUF3tN6Z7op/view?usp=drive
 # Results : 
 you can test your own images (montaged) and place them (4 images) in test folder , and then test your model : <br/>
 
+|Train loss| 69.6% |
+|------|------|
+|Val loss| 69.3% |
+| | | 
+
+
+## our network will be ~69% off in house price predictions. that is a poor result
+
 ### My house :
 <p float="center">
-    <img src  = "assets/my_house.JPG" width=450 /> 
+    <img src  = "assets/mine.JPG" width=550 /> 
 </p>
 <br />
 
 ### a random house :
 <p float="center">
-    <img src  = "assets/results.JPG" width=450 /> 
+    <img src  = "assets/resized.JPG" width=550 /> 
 </p>
 <br />
