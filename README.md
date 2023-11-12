@@ -42,3 +42,26 @@ in this order : <br/>
 this method Enables the CNN to learn different filters from all house photos at once and will not “confusing” the CNN with different images but with identical target values.
 
 
+# How to install
+Run this command to install used libraries : 
+```
+pip install -r requirements.txt 
+```
+<br/>
+<br/>
+
+# How to run 
+you can run `House_Price_Prediction_CNN_Regression.ipynb` file and train model : <br/>
+or use this save model's weight  , at the end of the code ,  in inference part :<br/>
+
+https://drive.google.com/file/d/1YZMAKxlLj1BR2WbDj259gPUF3tN6Z7op/view?usp=drive_link
+
+<br/>
+
+# Results : 
+you can test your own images (montaged) and place them (4 images) in test folder , and then test your model : <br/>
+
+<p float="center">
+    <img src  = "assets/results.JPG" width=450 /> 
+</p>
+<br />
