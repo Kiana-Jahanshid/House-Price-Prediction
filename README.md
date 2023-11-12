@@ -30,7 +30,7 @@ how are we going to use these images to train our CNN?
 > ## we should create a montage that combines each four images into a single image and then pass the montage through the CNN
 
 <p float="center">
-    <img src  = "assets/capture1.JPG" width=350 /> 
+    <img src  = "assets/Capture1.JPG" width=350 /> 
 </p>
 in this order : <br/>
 1- The bathroom image in the top-left <br/>
