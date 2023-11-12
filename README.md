@@ -61,6 +61,13 @@ https://drive.google.com/file/d/1YZMAKxlLj1BR2WbDj259gPUF3tN6Z7op/view?usp=drive
 # Results : 
 you can test your own images (montaged) and place them (4 images) in test folder , and then test your model : <br/>
 
+### My house :
+<p float="center">
+    <img src  = "assets/my_house.JPG" width=450 /> 
+</p>
+<br />
+
+### a random house :
 <p float="center">
     <img src  = "assets/results.JPG" width=450 /> 
 </p>
